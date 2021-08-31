@@ -2,10 +2,10 @@ import React from 'react';
 
 import Profile from './components/profile/Profile'
 import Statistics from "./components/statistics/Statistics";
-
-import data from "./data/data";
 import FriendList from "./components/friendList/FriendList";
 import TransactionHistory from "./components/transactionHistory/TransactionHistory";
+
+import data from "./data/data";
 
 const App = () => {
   return (
